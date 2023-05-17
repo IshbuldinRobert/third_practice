@@ -1,0 +1,15 @@
+C:\Study\C#\third_practice\sec_exmp\obj\Debug\net6.0\sec_exmp.csproj.AssemblyReference.cache
+C:\Study\C#\third_practice\sec_exmp\obj\Debug\net6.0\sec_exmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\third_practice\sec_exmp\obj\Debug\net6.0\sec_exmp.AssemblyInfoInputs.cache
+C:\Study\C#\third_practice\sec_exmp\obj\Debug\net6.0\sec_exmp.AssemblyInfo.cs
+C:\Study\C#\third_practice\sec_exmp\obj\Debug\net6.0\sec_exmp.csproj.CoreCompileInputs.cache
+C:\Study\C#\third_practice\sec_exmp\bin\Debug\net6.0\sec_exmp.exe
+C:\Study\C#\third_practice\sec_exmp\bin\Debug\net6.0\sec_exmp.deps.json
+C:\Study\C#\third_practice\sec_exmp\bin\Debug\net6.0\sec_exmp.runtimeconfig.json
+C:\Study\C#\third_practice\sec_exmp\bin\Debug\net6.0\sec_exmp.dll
+C:\Study\C#\third_practice\sec_exmp\bin\Debug\net6.0\sec_exmp.pdb
+C:\Study\C#\third_practice\sec_exmp\obj\Debug\net6.0\sec_exmp.dll
+C:\Study\C#\third_practice\sec_exmp\obj\Debug\net6.0\refint\sec_exmp.dll
+C:\Study\C#\third_practice\sec_exmp\obj\Debug\net6.0\sec_exmp.pdb
+C:\Study\C#\third_practice\sec_exmp\obj\Debug\net6.0\sec_exmp.genruntimeconfig.cache
+C:\Study\C#\third_practice\sec_exmp\obj\Debug\net6.0\ref\sec_exmp.dll

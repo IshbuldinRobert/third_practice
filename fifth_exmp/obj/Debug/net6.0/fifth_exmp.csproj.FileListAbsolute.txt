@@ -1,0 +1,15 @@
+C:\Study\C#\third_practice\fifth_exmp\bin\Debug\net6.0\fifth_exmp.exe
+C:\Study\C#\third_practice\fifth_exmp\bin\Debug\net6.0\fifth_exmp.deps.json
+C:\Study\C#\third_practice\fifth_exmp\bin\Debug\net6.0\fifth_exmp.runtimeconfig.json
+C:\Study\C#\third_practice\fifth_exmp\bin\Debug\net6.0\fifth_exmp.dll
+C:\Study\C#\third_practice\fifth_exmp\bin\Debug\net6.0\fifth_exmp.pdb
+C:\Study\C#\third_practice\fifth_exmp\obj\Debug\net6.0\fifth_exmp.csproj.AssemblyReference.cache
+C:\Study\C#\third_practice\fifth_exmp\obj\Debug\net6.0\fifth_exmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\third_practice\fifth_exmp\obj\Debug\net6.0\fifth_exmp.AssemblyInfoInputs.cache
+C:\Study\C#\third_practice\fifth_exmp\obj\Debug\net6.0\fifth_exmp.AssemblyInfo.cs
+C:\Study\C#\third_practice\fifth_exmp\obj\Debug\net6.0\fifth_exmp.csproj.CoreCompileInputs.cache
+C:\Study\C#\third_practice\fifth_exmp\obj\Debug\net6.0\fifth_exmp.dll
+C:\Study\C#\third_practice\fifth_exmp\obj\Debug\net6.0\refint\fifth_exmp.dll
+C:\Study\C#\third_practice\fifth_exmp\obj\Debug\net6.0\fifth_exmp.pdb
+C:\Study\C#\third_practice\fifth_exmp\obj\Debug\net6.0\fifth_exmp.genruntimeconfig.cache
+C:\Study\C#\third_practice\fifth_exmp\obj\Debug\net6.0\ref\fifth_exmp.dll

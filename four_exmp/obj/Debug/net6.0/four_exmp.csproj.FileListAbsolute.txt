@@ -1,0 +1,15 @@
+C:\Study\C#\third_practice\four_exmp\obj\Debug\net6.0\four_exmp.csproj.AssemblyReference.cache
+C:\Study\C#\third_practice\four_exmp\obj\Debug\net6.0\four_exmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\third_practice\four_exmp\obj\Debug\net6.0\four_exmp.AssemblyInfoInputs.cache
+C:\Study\C#\third_practice\four_exmp\obj\Debug\net6.0\four_exmp.AssemblyInfo.cs
+C:\Study\C#\third_practice\four_exmp\obj\Debug\net6.0\four_exmp.csproj.CoreCompileInputs.cache
+C:\Study\C#\third_practice\four_exmp\bin\Debug\net6.0\four_exmp.exe
+C:\Study\C#\third_practice\four_exmp\bin\Debug\net6.0\four_exmp.deps.json
+C:\Study\C#\third_practice\four_exmp\bin\Debug\net6.0\four_exmp.runtimeconfig.json
+C:\Study\C#\third_practice\four_exmp\bin\Debug\net6.0\four_exmp.dll
+C:\Study\C#\third_practice\four_exmp\bin\Debug\net6.0\four_exmp.pdb
+C:\Study\C#\third_practice\four_exmp\obj\Debug\net6.0\four_exmp.dll
+C:\Study\C#\third_practice\four_exmp\obj\Debug\net6.0\refint\four_exmp.dll
+C:\Study\C#\third_practice\four_exmp\obj\Debug\net6.0\four_exmp.pdb
+C:\Study\C#\third_practice\four_exmp\obj\Debug\net6.0\four_exmp.genruntimeconfig.cache
+C:\Study\C#\third_practice\four_exmp\obj\Debug\net6.0\ref\four_exmp.dll

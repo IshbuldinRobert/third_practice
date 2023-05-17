@@ -1,0 +1,15 @@
+C:\Study\C#\third_practice\third_exmp\bin\Debug\net6.0\third_exmp.exe
+C:\Study\C#\third_practice\third_exmp\bin\Debug\net6.0\third_exmp.deps.json
+C:\Study\C#\third_practice\third_exmp\bin\Debug\net6.0\third_exmp.runtimeconfig.json
+C:\Study\C#\third_practice\third_exmp\bin\Debug\net6.0\third_exmp.dll
+C:\Study\C#\third_practice\third_exmp\bin\Debug\net6.0\third_exmp.pdb
+C:\Study\C#\third_practice\third_exmp\obj\Debug\net6.0\third_exmp.csproj.AssemblyReference.cache
+C:\Study\C#\third_practice\third_exmp\obj\Debug\net6.0\third_exmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\third_practice\third_exmp\obj\Debug\net6.0\third_exmp.AssemblyInfoInputs.cache
+C:\Study\C#\third_practice\third_exmp\obj\Debug\net6.0\third_exmp.AssemblyInfo.cs
+C:\Study\C#\third_practice\third_exmp\obj\Debug\net6.0\third_exmp.csproj.CoreCompileInputs.cache
+C:\Study\C#\third_practice\third_exmp\obj\Debug\net6.0\third_exmp.dll
+C:\Study\C#\third_practice\third_exmp\obj\Debug\net6.0\refint\third_exmp.dll
+C:\Study\C#\third_practice\third_exmp\obj\Debug\net6.0\third_exmp.pdb
+C:\Study\C#\third_practice\third_exmp\obj\Debug\net6.0\third_exmp.genruntimeconfig.cache
+C:\Study\C#\third_practice\third_exmp\obj\Debug\net6.0\ref\third_exmp.dll
